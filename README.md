@@ -21,6 +21,13 @@ The task is to create an automated method capable of determining whether a patie
 
 ## 📁 Project Structure
 
+## 🚀 Installation
+### Clone the repository:
+```bash
+git clone https://github.com/yourusername/lung-cancer-detection.git
+cd lung-cancer-detection
+
+
 ```bash
 ├── data/            # Contains DICOM files for CT images
 ├── notebooks/       # Jupyter notebooks for data exploration and model development
