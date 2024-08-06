@@ -1,4 +1,4 @@
-# Lung-Cancer-Detection-using-CNN
+### Lung Cancer Detection using Convolutional Neural Networks (CNN)
 Lung Cancer Detection using CNN
 
 
