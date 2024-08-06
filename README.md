@@ -28,6 +28,3 @@ The task is to create an automated method capable of determining whether a patie
 ├── models/          # Saved models and checkpoints
 ├── results/         # Results and evaluation metrics
 └── README.md        # Project documentation
-
-## 🚀 Installation
-Clone the repository:
